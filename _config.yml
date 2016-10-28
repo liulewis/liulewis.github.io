@@ -1,22 +1,22 @@
 # Site settings
-title: WilliamLewis Blog
-SEOTitle: 刘易诗的博客 | WilliamLewis Blog
+title: Lewis’ Blog
+SEOTitle: 刘易诗的博客 | Lewis’ Blog
 header-img: img/home-bg.jpg
-email: WilliamLewispro@gmail.com
+email: WilliamLewis2019@gmail.com
 description: "关于前端与设计、黑客与画家 | 刘易诗，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @WilliamLewis刘易诗 的个人博客，与你一起发现更大的世界。"
 keyword: "刘易诗, WilliamLewis刘易诗, WilliamLewis, 鬼栈, WilliamLewispro, @WilliamLewispro, 刘易诗的博客, WilliamLewis Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://WilliamLewis.tk"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     WilliamLewispro
-zhihu_username:     WilliamLewispro
-github_username:    WilliamLewispro
+weibo_username:     WilliamLewis
+zhihu_username:     WilliamLewis
+#github_username:   WilliamLewis
 #twitter_username:  WilliamLewispro
-facebook_username:  WilliamLewispro
+facebook_username:  WilliamLewis
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -64,13 +64,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: WilliamLewis.tk
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，我想去看看。"
+sidebar-about-description: "老板叫我来加班，我到公司转一转。"
 sidebar-avatar: /img/avatar-WilliamLewis.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
