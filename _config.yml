@@ -1,6 +1,6 @@
 # Site settings
-title: Lewis’ Blog
-SEOTitle: 刘易诗的博客 | Lewis’ Blog
+title: 荒草丛诗
+SEOTitle: 刘易诗 | Lewis’ Blog
 header-img: img/cat.jpg
 email: WilliamLewis2019@gmail.com
 description: "这里是 @WilliamLewis刘易诗 的个人博客，与你一起发现更大的世界。"
@@ -15,8 +15,9 @@ RSS: false
 weibo_username:     WilliamLewis
 zhihu_username:     WilliamLewis
 #github_username:   WilliamLewis
-#twitter_username:  WilliamLewispro
+#twitter_username:  WilliamLewis
 facebook_username:  WilliamLewis
+telegram_username:  Wlewis
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -70,8 +71,8 @@ ga_domain: WilliamLewis.tk
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "老板叫我来加班，我到公司转一转。"
-sidebar-avatar: /img/avatar-WilliamLewis.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "老板叫我来加班，我到公司转一转。开启电脑敲起代码，生活好似活神仙。"
+sidebar-avatar: /img/autumn.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
