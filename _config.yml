@@ -3,8 +3,8 @@ title: Lewis’ Blog
 SEOTitle: 刘易诗的博客 | Lewis’ Blog
 header-img: img/home-bg.jpg
 email: WilliamLewis2019@gmail.com
-description: "关于前端与设计、黑客与画家 | 刘易诗，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @WilliamLewis刘易诗 的个人博客，与你一起发现更大的世界。"
-keyword: "刘易诗, WilliamLewis刘易诗, WilliamLewis, 鬼栈, WilliamLewispro, @WilliamLewispro, 刘易诗的博客, WilliamLewis Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+description: "这里是 @WilliamLewis刘易诗 的个人博客，与你一起发现更大的世界。"
+keyword: "刘易诗, WilliamLewis刘易诗, WilliamLewis"
 url: "https://WilliamLewis.tk"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -101,9 +101,6 @@ friends: [
     },{
         title: "天镶的博客",
         href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
     },{
         title: "Ebn's Blog",
         href: "http://ebnbin.com/"
