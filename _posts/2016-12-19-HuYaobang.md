@@ -1,9 +1,8 @@
 
+In Memory of Hu Yaobang
+胡耀邦（1915年11月20日－1989年4月15日），字国光，祖籍中国江西高安市华林山镇胡氏古村，生于湖南浏阳西岭镇中和乡苍坊村，中国共产党和中华人民共和国的第二代主要领导人之一，曾任中国共产党中央委员会主席和中国共产党中央委员会总书记。
 
-#In Memory of Hu Yaobang
-#####胡耀邦（1915年11月20日－1989年4月15日），字国光，祖籍中国江西高安市华林山镇胡氏古村，生于湖南浏阳西岭镇中和乡苍坊村，中国共产党和中华人民共和国的第二代主要领导人之一，曾任中国共产党中央委员会主席和中国共产党中央委员会总书记。
-
-#####Hu Yaobang (November 20, 1915 – April 15, 1989) was a high-ranking official of the People's Republic of China. He was the leader of the Communist Party of China from 1981 to 1987.
+Hu Yaobang (November 20, 1915 – April 15, 1989) was a high-ranking official of the People's Republic of China. He was the leader of the Communist Party of China from 1981 to 1987.
 _______________________________________________________________________________
 Q:胡耀邦祖籍中国江西___
 
